@@ -1,0 +1,19 @@
+#Fifa 21 Players Dataset
+'''
+    Some guiding questions:
+
+    1.-Does the height and weight columns have 
+    the appropriate data types?
+    
+    2.-Can you separate the joined column into years,
+    month and day columns?
+
+    3.-Can you clean and transform the values,Wage (wage_eur)
+    and release clause columns into columns of integers?
+
+    4.-How can you remove the newline characters from 
+    the Hits column? 
+
+    5.-Should you separate the Team & Contract column into 
+    separate Team and contract columns ? 
+'''
